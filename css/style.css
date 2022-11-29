@@ -3,3 +3,8 @@ html, body {
     min-height: 100vh;
     background: linear-gradient(#802b5e44, #8e8e25bb);
 }
+
+.main {
+    max-width: 940px;
+    margin: 20px auto;
+}
